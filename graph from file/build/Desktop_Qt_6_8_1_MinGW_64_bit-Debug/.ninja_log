@@ -1,0 +1,20 @@
+# ninja log v6
+6	177	7589267797842921	untitled2_autogen/timestamp	ea8c1c16108314e5
+6	177	7589267797842921	untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+6	177	7589267797842921	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/timestamp	ea8c1c16108314e5
+6	177	7589267797842921	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+181	246	7589267798422750	CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj	1bbca62400b88704
+184	2981	7589267798447850	CMakeFiles/untitled2.dir/main.cpp.obj	fcf14563b5383586
+2985	3296	7589267826456949	untitled2.exe	93dfb6476d0095b
+13	135	7589268460782175	untitled2_autogen/timestamp	ea8c1c16108314e5
+13	135	7589268460782175	untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+13	135	7589268460782175	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/timestamp	ea8c1c16108314e5
+13	135	7589268460782175	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+136	2812	7589268462017672	CMakeFiles/untitled2.dir/main.cpp.obj	fcf14563b5383586
+2812	3032	7589268488777895	untitled2.exe	93dfb6476d0095b
+63	226	7591040537907693	untitled2_autogen/timestamp	ea8c1c16108314e5
+63	226	7591040537907693	untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+63	226	7591040537907693	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/timestamp	ea8c1c16108314e5
+63	226	7591040537907693	C:/Users/Sibyl/Documents/untitled2/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	ea8c1c16108314e5
+227	3339	7591040539554115	CMakeFiles/untitled2.dir/main.cpp.obj	fcf14563b5383586
+3339	3941	7591040570663147	untitled2.exe	93dfb6476d0095b
